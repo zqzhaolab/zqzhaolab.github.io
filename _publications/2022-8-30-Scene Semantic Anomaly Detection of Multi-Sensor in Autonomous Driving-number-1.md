@@ -1,9 +1,9 @@
 ---
-title: "Sensing Intrusion Detection for Automatic Driving System based on Scene Semantic Centroid"
+title: "Scene Semantic Anomaly Detection of Multi-Sensor in Autonomous Driving"
 collection: publications
 category: conferences
 permalink: /publication/2022-8-30-Scene Semantic Anomaly Detection of Multi-Sensor in Autonomous Driving-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+#excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2022-08-30
 venue: '2022 International Symposium on Sensor Technology and Control (ISSTC 2022)'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'

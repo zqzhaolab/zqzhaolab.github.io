@@ -3,7 +3,7 @@ title: "RaDiT: A Differential Transformer-Based Hybrid Deep Learning Model for R
 collection: publications
 category: manuscripts
 permalink: /publication/2025-06-06-RaDiT A Differential Transformer-Based Hybrid Deep Learning Model for Radar Echo Extrapolation-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+#excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-06-06
 venue: 'Remote Sensing'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
