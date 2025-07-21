@@ -40,7 +40,7 @@ author:
   orcid            : "https://orcid.org/my-orcid?orcid=0009-0003-9994-5628"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Zhao-Ziqi-8?ev=hdr_xprf"
   scopus           : # URL
 
   # Repositories and software development
