@@ -2,7 +2,7 @@
 title: "Sensing Intrusion Detection for Automatic Driving System based on Scene Semantic Centroid"
 collection: publications
 category: conferences
-permalink: /publication/2022-09-01-Sensing Intrusion Detection for Automatic Driving System based on Scene Semantic Centroid-number-1
+permalink: /publication/2025-06-16-MissPred A Robust Two-Stage Radar Echo Extrapolation Algorithm for Incomplete Sequences-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2022-09-01
 venue: '2022 IEEE 25th International Conference on Intelligent Transportation Systems (ITSC)'

@@ -25,7 +25,7 @@ author:
   avatar           : "touxiang.jpg"
   name             : "Ziqi Zhao"
   pronouns         : # example: "she/her"  
-  bio              : "PHD Candidate"
+  bio              : #"PHD Candidate"
   location         : "Jiangsu, China"
   employer         : "NUIST
 "
